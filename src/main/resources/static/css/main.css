@@ -1,0 +1,17 @@
+.container{
+	width: 100%;
+    margin: auto;
+}
+
+.action{
+	margin: auto;
+    width: fit-content;
+}
+
+.rented-cars{
+    color: darkred;
+}
+
+.free-cars{
+    color: darkgreen;
+}
